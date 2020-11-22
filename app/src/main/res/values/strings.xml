@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Conversion App</string>
+    <string name="Pnd">Pounds</string>
+    <string name="CV">ConveredValue</string>
+    <string name="button">Button</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="conversion_app">Conversion App</string>
+    <string name="Enter">Enter Here the Kilograms</string>
+
+
+</resources>
